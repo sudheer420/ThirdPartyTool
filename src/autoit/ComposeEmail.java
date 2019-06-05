@@ -20,7 +20,7 @@ public class ComposeEmail
 	public WebDriverWait wait = null;
 	
 	
-	
+	//This is a precondition method to set browser
 	@BeforeMethod
 	public void precondition() 
 	{
